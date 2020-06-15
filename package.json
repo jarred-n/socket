@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "a socket and koa demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jarred-n/socket.git"
+  },
+  "author": "hj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarred-n/socket/issues"
+  },
+  "homepage": "https://github.com/jarred-n/socket#readme",
+  "dependencies": {
+    "koa": "^2.12.1",
+    "koa-bodyparser": "^4.3.0"
+  }
+}
